@@ -1,0 +1,9 @@
+{
+  "name": "nayumahmed/get-keyframes-php",
+  "description": "Standalone PHP example project for mozartk/get-keyframes.",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "mozartk/get-keyframes": "~1.0"
+  }
+}
